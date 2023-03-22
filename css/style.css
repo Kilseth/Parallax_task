@@ -20,6 +20,7 @@ html {
   /*fixed=parallax
     scroll=normal*/
   background-attachment: fixed;
+  background-size: 100%;
 }
 
 .pimg1 {
@@ -30,13 +31,11 @@ html {
 .pimg2 {
   background-image: url(../images/ikegmaiBoarding.png);
   min-height: 500px;
-  background-size: 100%;
 }
 
 .pimg3 {
   background-image: url(../images/tokyo-metropolitan-government.jpg);
   min-height: 500px;
-  background-size: 100%;
 }
 
 .section {
