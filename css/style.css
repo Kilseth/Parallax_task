@@ -29,18 +29,20 @@ html {
 
 .pimg2 {
   background-image: url(../images/ikegmaiBoarding.png);
-  min-height: 400px;
+  min-height: 500px;
+  background-size: 100%;
 }
 
 .pimg3 {
   background-image: url(../images/tokyo-metropolitan-government.jpg);
-  min-height: 400px;
-  background: contain;
+  min-height: 500px;
+  background-size: 100%;
 }
 
 .section {
   text-align: center;
   padding: 50px 80px;
+  height: 200px;
 }
 
 .section-light {
