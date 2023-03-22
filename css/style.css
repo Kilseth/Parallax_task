@@ -28,13 +28,14 @@ html {
 }
 
 .pimg2 {
-  background-image: url(../images/vrc_KC.png);
+  background-image: url(../images/ikegmaiBoarding.png);
   min-height: 400px;
 }
 
 .pimg3 {
   background-image: url(../images/tokyo-metropolitan-government.jpg);
   min-height: 400px;
+  background: contain;
 }
 
 .section {
